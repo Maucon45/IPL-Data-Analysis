@@ -18,9 +18,6 @@ Welcome to the IPL Data Analysis Project repository! This project is inspired by
 ## Contributing
 If you'd like to contribute to this project by enhancing DAX formulas or adding new features, please create a pull request.
 
-## Acknowledgments
-Thanks to the original YouTube tutorial for inspiration.
-
 
 ## Get in Touch
 Feel free to connect with me on LinkedIn to discuss data analysis and collaborate on exciting projects.
